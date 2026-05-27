@@ -215,7 +215,8 @@ if (b != 0) {
     
     printf("Remainder: %d %% %d = %d\n", a, b, a % b);
     
-} else {
+}
+else {
 
     printf("Division: Not possible (division by zero)\n");
     
